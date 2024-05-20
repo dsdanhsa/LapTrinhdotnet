@@ -1,0 +1,71 @@
+D:\visualstudiôcde\LapTrinhUngDungdotNet\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.Properties.Resources.resources
+D:\visualstudiôcde\LapTrinhUngDungdotNet\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.csproj.GenerateResource.cache
+D:\visualstudiôcde\LapTrinhUngDungdotNet\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.csproj.CoreCompileInputs.cache
+D:\visualstudiôcde\LapTrinhUngDungdotNet\QL_NHAHANG\QL_NHAHANG\bin\Debug\QLNH.mdf
+D:\visualstudiôcde\LapTrinhUngDungdotNet\QL_NHAHANG\QL_NHAHANG\bin\Debug\QLNH_log.ldf
+D:\visualstudiôcde\LapTrinhUngDungdotNet\QL_NHAHANG\QL_NHAHANG\bin\Debug\QL_NHAHANG.exe.config
+D:\visualstudiôcde\LapTrinhUngDungdotNet\QL_NHAHANG\QL_NHAHANG\bin\Debug\QL_NHAHANG.exe
+D:\visualstudiôcde\LapTrinhUngDungdotNet\QL_NHAHANG\QL_NHAHANG\bin\Debug\QL_NHAHANG.pdb
+D:\visualstudiôcde\LapTrinhUngDungdotNet\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.frm_TrangChu.resources
+D:\visualstudiôcde\LapTrinhUngDungdotNet\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.exe
+D:\visualstudiôcde\LapTrinhUngDungdotNet\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.pdb
+D:\visualstudiôcde\LapTrinhUngDungdotNet\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.frm_Ban.resources
+D:\visualstudiôcde\LapTrinhUngDungdotNet\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.frm_NhanVien.resources
+D:\visualstudiôcde\LapTrinhUngDungdotNet\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.frm_ThanhToan.resources
+D:\visualstudiôcde\LapTrinhUngDungdotNet\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.csproj.AssemblyReference.cache
+D:\visualstudiôcde\LapTrinhUngDungdotNet\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.frm_DangNhap.resources
+D:\visualstudiôcde\LapTrinhUngDungdotNet\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.frm_Menu.resources
+D:\DangNgocTu_5773\QL_NHAHANG\QL_NHAHANG\bin\Debug\QLNH.mdf
+D:\DangNgocTu_5773\QL_NHAHANG\QL_NHAHANG\bin\Debug\QLNH_log.ldf
+D:\DangNgocTu_5773\QL_NHAHANG\QL_NHAHANG\bin\Debug\QL_NHAHANG.exe.config
+D:\DangNgocTu_5773\QL_NHAHANG\QL_NHAHANG\bin\Debug\QL_NHAHANG.exe
+D:\DangNgocTu_5773\QL_NHAHANG\QL_NHAHANG\bin\Debug\QL_NHAHANG.pdb
+D:\DangNgocTu_5773\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.csproj.AssemblyReference.cache
+D:\DangNgocTu_5773\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.frm_Ban.resources
+D:\DangNgocTu_5773\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.frm_DangNhap.resources
+D:\DangNgocTu_5773\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.frm_Menu.resources
+D:\DangNgocTu_5773\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.frm_NhanVien.resources
+D:\DangNgocTu_5773\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.Properties.Resources.resources
+D:\DangNgocTu_5773\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.frm_ThanhToan.resources
+D:\DangNgocTu_5773\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.frm_TrangChu.resources
+D:\DangNgocTu_5773\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.csproj.GenerateResource.cache
+D:\DangNgocTu_5773\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.csproj.CoreCompileInputs.cache
+D:\DangNgocTu_5773\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.exe
+D:\DangNgocTu_5773\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.pdb
+D:\DangNgocTu_5773\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.frm_DangKy.resources
+E:\DTU\Lập trình .NET\DangNgocTu_5773\QL_NHAHANG\QL_NHAHANG\bin\Debug\QLNH.mdf
+E:\DTU\Lập trình .NET\DangNgocTu_5773\QL_NHAHANG\QL_NHAHANG\bin\Debug\QLNH_log.ldf
+E:\DTU\Lập trình .NET\DangNgocTu_5773\QL_NHAHANG\QL_NHAHANG\bin\Debug\QL_NHAHANG.exe.config
+E:\DTU\Lập trình .NET\DangNgocTu_5773\QL_NHAHANG\QL_NHAHANG\bin\Debug\QL_NHAHANG.exe
+E:\DTU\Lập trình .NET\DangNgocTu_5773\QL_NHAHANG\QL_NHAHANG\bin\Debug\QL_NHAHANG.pdb
+E:\DTU\Lập trình .NET\DangNgocTu_5773\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.csproj.AssemblyReference.cache
+E:\DTU\Lập trình .NET\DangNgocTu_5773\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.frm_DangKy.resources
+E:\DTU\Lập trình .NET\DangNgocTu_5773\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.frm_Ban.resources
+E:\DTU\Lập trình .NET\DangNgocTu_5773\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.frm_DangNhap.resources
+E:\DTU\Lập trình .NET\DangNgocTu_5773\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.frm_Menu.resources
+E:\DTU\Lập trình .NET\DangNgocTu_5773\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.frm_NhanVien.resources
+E:\DTU\Lập trình .NET\DangNgocTu_5773\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.Properties.Resources.resources
+E:\DTU\Lập trình .NET\DangNgocTu_5773\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.frm_ThanhToan.resources
+E:\DTU\Lập trình .NET\DangNgocTu_5773\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.frm_TrangChu.resources
+E:\DTU\Lập trình .NET\DangNgocTu_5773\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.csproj.GenerateResource.cache
+E:\DTU\Lập trình .NET\DangNgocTu_5773\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.csproj.CoreCompileInputs.cache
+E:\DTU\Lập trình .NET\DangNgocTu_5773\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.exe
+E:\DTU\Lập trình .NET\DangNgocTu_5773\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.pdb
+E:\DTU\Lập trình dotNet\DangNgocTu_5773\QL_NHAHANG\QL_NHAHANG\bin\Debug\QLNH.mdf
+E:\DTU\Lập trình dotNet\DangNgocTu_5773\QL_NHAHANG\QL_NHAHANG\bin\Debug\QLNH_log.ldf
+E:\DTU\Lập trình dotNet\DangNgocTu_5773\QL_NHAHANG\QL_NHAHANG\bin\Debug\QL_NHAHANG.exe.config
+E:\DTU\Lập trình dotNet\DangNgocTu_5773\QL_NHAHANG\QL_NHAHANG\bin\Debug\QL_NHAHANG.exe
+E:\DTU\Lập trình dotNet\DangNgocTu_5773\QL_NHAHANG\QL_NHAHANG\bin\Debug\QL_NHAHANG.pdb
+E:\DTU\Lập trình dotNet\DangNgocTu_5773\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.csprojAssemblyReference.cache
+E:\DTU\Lập trình dotNet\DangNgocTu_5773\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.frm_DangKy.resources
+E:\DTU\Lập trình dotNet\DangNgocTu_5773\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.frm_Ban.resources
+E:\DTU\Lập trình dotNet\DangNgocTu_5773\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.frm_DangNhap.resources
+E:\DTU\Lập trình dotNet\DangNgocTu_5773\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.frm_Menu.resources
+E:\DTU\Lập trình dotNet\DangNgocTu_5773\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.frm_NhanVien.resources
+E:\DTU\Lập trình dotNet\DangNgocTu_5773\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.Properties.Resources.resources
+E:\DTU\Lập trình dotNet\DangNgocTu_5773\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.frm_ThanhToan.resources
+E:\DTU\Lập trình dotNet\DangNgocTu_5773\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.frm_TrangChu.resources
+E:\DTU\Lập trình dotNet\DangNgocTu_5773\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.csproj.GenerateResource.cache
+E:\DTU\Lập trình dotNet\DangNgocTu_5773\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.csproj.CoreCompileInputs.cache
+E:\DTU\Lập trình dotNet\DangNgocTu_5773\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.exe
+E:\DTU\Lập trình dotNet\DangNgocTu_5773\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.pdb
